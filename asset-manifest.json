@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jeffMullen.github.io/static/css/main.a617e044.chunk.css",
+    "main.js": "/jeffMullen.github.io/static/js/main.2f986db0.chunk.js",
+    "main.js.map": "/jeffMullen.github.io/static/js/main.2f986db0.chunk.js.map",
+    "runtime-main.js": "/jeffMullen.github.io/static/js/runtime-main.4f1e7fea.js",
+    "runtime-main.js.map": "/jeffMullen.github.io/static/js/runtime-main.4f1e7fea.js.map",
+    "static/js/2.756035ce.chunk.js": "/jeffMullen.github.io/static/js/2.756035ce.chunk.js",
+    "static/js/2.756035ce.chunk.js.map": "/jeffMullen.github.io/static/js/2.756035ce.chunk.js.map",
+    "static/js/3.b23fdb33.chunk.js": "/jeffMullen.github.io/static/js/3.b23fdb33.chunk.js",
+    "static/js/3.b23fdb33.chunk.js.map": "/jeffMullen.github.io/static/js/3.b23fdb33.chunk.js.map",
+    "index.html": "/jeffMullen.github.io/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/jeffMullen.github.io/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.756035ce.chunk.js.LICENSE.txt": "/jeffMullen.github.io/static/js/2.756035ce.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/jeffMullen.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f1e7fea.js",
+    "static/js/2.756035ce.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.2f986db0.chunk.js"
+  ]
+}
